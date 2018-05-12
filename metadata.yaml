@@ -1,0 +1,35 @@
+_repo: The-Unruly-Sprite--A-Partial-Fairy-Tale_20255
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Van
+    - Dyke, Henry I. Van
+    - Dyke, Henry Jackson Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: Join Reginald Bakeley on a sprite-and-fairy hunt in this torrid little
+  tale from 1912 author and humorist Henry Van Dyke. Here you'll learn that it's okay
+  to take your creative frustrations out on a misbehaving sprite via whips and switches.
+gutenberg_issued: '2007-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairies -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Authors -- Fiction'
+- !lcc 'PS'
+title: 'The Unruly Sprite: A Partial Fairy Tale'
+url: http://www.gutenberg.org/ebooks/20255
